@@ -1,29 +1,6 @@
-# README
+# Twitter Cloning with Ruby On Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-# This are Few Tips For Solving Some Issue when running or create rails project :
+### This are Few Tips For Solving Some Issue when running or create rails project :
  *you need to install sqlite3 package:*
   ```
   sudo gem install sqlite3 -v '1.4.2'
