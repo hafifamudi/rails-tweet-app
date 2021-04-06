@@ -8,7 +8,7 @@
   sudo apt-get install libsqlite3-dev
 
   ```
-  *you need to yarn package manager for install webpacker:*
+  *you need to install yarn package manager for install webpacker:*
   ```
    sudo npm install --global yarn
 
